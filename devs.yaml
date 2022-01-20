@@ -1,8 +1,21 @@
-- github: https://github.com/abhibhaw:
+- github: https://github.com/abhibhaw
   resume: https://abhibhaw.co/resume.pdf
   linkedin: https://www.linkedin.com/in/abhibhaw/
   skills:
-  - flutter
-  - dart
-  college: NIT Rourkella
+    - flutter
+    - dart
+  edu: 
+    - NIT Rourkella
   grad: 2023
+
+- github: https://github.com/Aarush-Goyal
+  resume: https://github.com/Aarush-Goyal/Aarush-Goyal/blob/main/resume.md
+  linkedin: https://www.linkedin.com/in/aarush-goyal/
+  twitter: https://twitter.com/aarushgoyal_
+  skills:
+  - frontend
+  - typescript
+  - javascript
+  edu: 
+    - Amity School
+  grad: 2025
