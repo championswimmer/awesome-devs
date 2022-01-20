@@ -5,7 +5,7 @@
   - flutter
   - dart
   edu: 
-  - NIT Rourkella
+  - NIT-R
   grad: 2023
 
 - github: https://github.com/Aarush-Goyal
@@ -17,16 +17,35 @@
   - typescript
   - javascript
   edu: 
-  - Amity School
+  - Amity
   grad: 2025
  
 - github: https://github.com/TanmoySG
   linkedin: https://www.linkedin.com/in/tanmoysg/
   edu:
-  - SRM University
+  - SRM
   grad: 2021
   skills:
   - frontend
   - backend
   - python 
   twitter: https://twitter.com/tanmoy_sg
+
+- github: https://github.com/hitgo00 
+  skills: 
+  - javascript
+  - typescript
+  linkedin: https://www.linkedin.com/in/hitgo
+  edu:
+  - DAIICT
+ 
+ - github: https://github.com/abhi-824
+   skills:
+   - frontend
+   - javascript
+   - flutter
+   linkedin: https://www.linkedin.com/in/abhinandan-sharma-0a2633175/
+   edu:
+   - DTU 
+   grad: 2023
+   codeforces: https://codeforces.com/profile/abdude824
