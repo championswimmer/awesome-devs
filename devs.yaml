@@ -2,10 +2,10 @@
   resume: https://abhibhaw.co/resume.pdf
   linkedin: https://www.linkedin.com/in/abhibhaw/
   skills:
-    - flutter
-    - dart
+  - flutter
+  - dart
   edu: 
-    - NIT Rourkella
+  - NIT Rourkella
   grad: 2023
 
 - github: https://github.com/Aarush-Goyal
@@ -17,5 +17,16 @@
   - typescript
   - javascript
   edu: 
-    - Amity School
+  - Amity School
   grad: 2025
+ 
+- github: https://github.com/TanmoySG
+  linkedin: https://www.linkedin.com/in/tanmoysg/
+  edu:
+  - SRM University
+  grad: 2021
+  skills:
+  - frontend
+  - backend
+  - python 
+  twitter: https://twitter.com/tanmoy_sg
