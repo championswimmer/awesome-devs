@@ -53,3 +53,25 @@
     - flutter
     - dart
   blog: 'https://yogeshpaliyal.com/'
+
+- github: https://github.com/Ayushd70
+  linkedin: https://linkedin.com/in/ayushd70
+  twitter: https://twitter.com/Ayushd70 
+  skills:
+    - android
+    - java
+    - cpp
+    - c
+    - flutter 
+    - dart
+
+- github: https://github.com/mrwhoknows55
+  linkedin: https://linkedin.com/in/mrwhoknows/
+  twitter: https://twitter.com/mr_whoknows55
+  skills:
+    - android
+    - kotlin
+    - java
+    - frontend
+    - javascript
+    - typescript
