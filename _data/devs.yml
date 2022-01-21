@@ -1,61 +1,55 @@
-- github: https://github.com/abhibhaw
-  resume: https://abhibhaw.co/resume.pdf
-  linkedin: https://www.linkedin.com/in/abhibhaw/
+- github: 'https://github.com/abhibhaw'
+  resume: 'https://abhibhaw.co/resume.pdf'
+  linkedin: 'https://www.linkedin.com/in/abhibhaw/'
   skills:
-  - flutter
-  - dart
-  edu: 
-  - NIT-R
-  grad: 2023
-
-- github: https://github.com/Aarush-Goyal
-  resume: https://github.com/Aarush-Goyal/Aarush-Goyal/blob/main/resume.md
-  linkedin: https://www.linkedin.com/in/aarush-goyal/
-  twitter: https://twitter.com/aarushgoyal_
-  skills:
-  - frontend
-  - typescript
-  - javascript
-  edu: 
-  - Amity
-  grad: 2025
- 
-- github: https://github.com/TanmoySG
-  linkedin: https://www.linkedin.com/in/tanmoysg/
+    - flutter
+    - dart
   edu:
-  - SRM
+    - NIT-R
+  grad: 2023
+- github: 'https://github.com/Aarush-Goyal'
+  resume: 'https://github.com/Aarush-Goyal/Aarush-Goyal/blob/main/resume.md'
+  linkedin: 'https://www.linkedin.com/in/aarush-goyal/'
+  twitter: 'https://twitter.com/aarushgoyal_'
+  skills:
+    - frontend
+    - typescript
+    - javascript
+  edu:
+    - Amity
+  grad: 2025
+- github: 'https://github.com/TanmoySG'
+  linkedin: 'https://www.linkedin.com/in/tanmoysg/'
+  edu:
+    - SRM
   grad: 2021
   skills:
-  - frontend
-  - backend
-  - python 
-  twitter: https://twitter.com/tanmoy_sg
-
-- github: https://github.com/hitgo00 
-  skills: 
-  - javascript
-  - typescript
-  linkedin: https://www.linkedin.com/in/hitgo
-  edu:
-  - DAIICT
- 
- - github: https://github.com/abhi-824
-   skills:
-   - frontend
-   - javascript
-   - flutter
-   linkedin: https://www.linkedin.com/in/abhinandan-sharma-0a2633175/
-   edu:
-   - DTU 
-   grad: 2023
-   codeforces: https://codeforces.com/profile/abdude824
- 
-- github: https://github.com/yogeshpaliyal
-  linkedin: https://www.linkedin.com/in/yogeshpaliya
+    - frontend
+    - backend
+    - python
+  twitter: 'https://twitter.com/tanmoy_sg'
+- github: 'https://github.com/hitgo00'
   skills:
-  - android
-  - kotlin 
-  - flutter
-  - dart
-  blog: https://yogeshpaliyal.com/ 
-  
+    - javascript
+    - typescript
+  linkedin: 'https://www.linkedin.com/in/hitgo'
+  edu:
+    - DAIICT
+- github: 'https://github.com/abhi-824'
+  skills:
+    - frontend
+    - javascript
+    - flutter
+  linkedin: 'https://www.linkedin.com/in/abhinandan-sharma-0a2633175/'
+  edu:
+    - DTU
+  grad: 2023
+  codeforces: 'https://codeforces.com/profile/abdude824'
+- github: 'https://github.com/yogeshpaliyal'
+  linkedin: 'https://www.linkedin.com/in/yogeshpaliya'
+  skills:
+    - android
+    - kotlin
+    - flutter
+    - dart
+  blog: 'https://yogeshpaliyal.com/'
