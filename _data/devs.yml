@@ -97,3 +97,16 @@
   edu:
     - AMU
   grad: 2022
+- github: 'https://github.com/prathamk22'
+  linkedin: 'https://www.linkedin.com/in/prathamk22'
+  twitter: 'https://twitter.com/prathamk22'
+  skills:
+    - android
+    - kotlin
+    - java
+    - frontend
+    - python
+    - nodejs
+  edu:
+    - GGSIPU(2023)
+  grad: 2022
