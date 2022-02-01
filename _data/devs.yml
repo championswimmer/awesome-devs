@@ -84,3 +84,16 @@
     - javascript
     - css
     - nodejs
+
+- github: 'https://github.com/rishabhltfb'
+  linkedin: 'https://www.linkedin.com/in/rishabh-sharma-11242b174'
+  twitter: 'https://twitter.com/Rishabh_ltfb'
+  skills:
+    - fullstack
+    - flutter
+    - nodejs
+    - reactjs
+    - typescript
+  edu:
+    - AMU
+  grad: 2022
