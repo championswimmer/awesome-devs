@@ -107,11 +107,12 @@
   resume: 'https://bit.ly/yashkumarverma'
   blog: 'https://yashkumarverma.github.io/'
   skills:
-    - fullstack
-    - javascript (nodeJS, react, react-native, typescript)
+    - javascript
+    - typescript
+    - nodejs
+    - react
     - golang
     - python
-    - fintech
 
 - github: 'https://github.com/tanay13'
   linkedin: 'https://www.linkedin.com/in/tanay-raj'
