@@ -97,3 +97,18 @@
   edu:
     - AMU
   grad: 2022
+  
+  - github: 'https://github.com/Raghavarya2002'
+  linkedin: 'https://www.linkedin.com/in/raghavarya/'
+  twitter: 'https://twitter.com/RaghavArya2002?s=08'
+  skills:
+    - android
+    - kotlin
+    - java
+    - Dart
+    - Flutter
+    - HTML
+    - CSS
+  edu:
+    - GGSIPU(2023)
+  grad: 2023
