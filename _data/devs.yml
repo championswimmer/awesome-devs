@@ -97,3 +97,15 @@
   edu:
     - AMU
   grad: 2022
+
+- github: 'https://github.com/DheerajMahra'
+  linkedin: 'https://www.linkedin.com/in/dheerajmahra/'
+  twitter: 'https://twitter.com/DheerajMahra'
+  skills:
+    - react
+    - javascript
+    - frontend
+    - web
+  edu:
+    - IPU
+  grad: 2020
