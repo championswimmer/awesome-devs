@@ -97,3 +97,17 @@
   edu:
     - AMU
   grad: 2022
+- github: 'https://github.com/yashkumarverma'
+  linkedin: 'https://linkedin.com/in/yash-kumar-verma'
+  twitter: 'https://twitter.com/yash_kr_verma'
+  edu: 
+    - VIT Vellore
+  grad: 2023
+  resume: 'https://bit.ly/yashkumarverma'
+  blog: 'https://yashkumarverma.github.io/'
+  skills:
+    - fullstack
+    - javascript (nodeJS, react, react-native, typescript)
+    - golang
+    - python
+    - fintech
