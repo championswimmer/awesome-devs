@@ -97,3 +97,16 @@
   edu:
     - AMU
   grad: 2022
+
+- github: 'https://github.com/dev5151'
+  resume: 'https://bit.ly/dev5151-resume'
+  linkedin: 'https://www.linkedin.com/in/dev5151/'
+  twitter: 'https://twitter.com/iamdev5151'
+  skills:
+    - android
+    - kotlin
+    - java
+    - spring
+  edu:
+    - VIT Vellore
+  grad: 2022
