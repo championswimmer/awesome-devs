@@ -98,6 +98,22 @@
     - AMU
   grad: 2022
 
+- github: 'https://github.com/yashkumarverma'
+  linkedin: 'https://linkedin.com/in/yash-kumar-verma'
+  twitter: 'https://twitter.com/yash_kr_verma'
+  edu: 
+    - VIT Vellore
+  grad: 2023
+  resume: 'https://bit.ly/yashkumarverma'
+  blog: 'https://yashkumarverma.github.io/'
+  skills:
+    - javascript
+    - typescript
+    - nodejs
+    - react
+    - golang
+    - python
+
 - github: 'https://github.com/tanay13'
   linkedin: 'https://www.linkedin.com/in/tanay-raj'
   twitter: 'https://twitter.com/tanayhere'
@@ -110,4 +126,3 @@
   edu:
     - VIT Vellore
   grad: 2023
-
