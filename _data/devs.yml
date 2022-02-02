@@ -126,3 +126,18 @@
   edu:
     - VIT Vellore
   grad: 2023
+
+- github: 'https://github.com/Deepakmukka1'
+  linkedin: 'https://www.linkedin.com/in/mukka-deepak-347b7119a/'
+  medium: 'https://mukkadeepak.medium.com/'
+  skills:
+    - javascript
+    - fullstack
+    - reactjs
+    - python
+    - nodejs
+    - cpp 
+  edu:
+    - VIT Vellore
+  grad: 2023
+
