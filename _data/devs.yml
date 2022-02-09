@@ -127,6 +127,16 @@
     - VIT Vellore
   grad: 2023
 
+- github: 'https://github.com/viveknathani'
+  linkedin: 'https://www.linkedin.com/in/viveknathani/'
+  twitter: 'https://twitter.com/viveknathani_'
+  skills:
+    - nodejs
+    - typescript
+    - go
+    - react
+  grad: 2023  
+
 - github: 'https://github.com/il3ven'
   resume: 'https://gist.github.com/il3ven/1e6d75f10c80fcda0b2dc354cbed33c3'
   linkedin: 'https://www.linkedin.com/in/vaibhav-c/'
