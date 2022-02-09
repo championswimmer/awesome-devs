@@ -136,3 +136,15 @@
     - go
     - react
   grad: 2023  
+
+- github: 'https://github.com/il3ven'
+  resume: 'https://gist.github.com/il3ven/1e6d75f10c80fcda0b2dc354cbed33c3'
+  linkedin: 'https://www.linkedin.com/in/vaibhav-c/'
+  skills:
+    - fullstack
+    - javascript
+    - react
+    - c
+  edu:
+    - JIIT
+  grad: 2021
