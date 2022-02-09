@@ -131,10 +131,9 @@
   resume: 'https://gist.github.com/il3ven/1e6d75f10c80fcda0b2dc354cbed33c3'
   linkedin: 'https://www.linkedin.com/in/vaibhav-c/'
   skills:
-    - fullstack web dev
+    - fullstack
     - javascript
     - react
-    - crypto
     - c
   edu:
     - JIIT
