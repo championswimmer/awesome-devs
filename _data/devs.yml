@@ -148,3 +148,15 @@
   edu:
     - JIIT
   grad: 2021
+  
+  - github: 'https://github.com/ddvader44'
+  resume: 'https://ddvader44.github.io/assets/dishit_resume.pdf'
+  linkedin: 'https://www.linkedin.com/in/dishit-duggar-2765a0185/'
+  skills:
+    - android
+    - java
+    - kotlin
+    - blockchain
+  edu:
+    - VIT
+  grad: 2023
