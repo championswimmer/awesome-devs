@@ -154,9 +154,17 @@
   twitter: 'https://twitter.com/__alter123'
   skills:
     - golang
-    - a few databases in-depth
-    - distributed systems
+    - databases
     - observability
   edu:
     - 𝕏 University
   grad: 2019
+
+- github: 'https://github.com/manthanguptaa'
+  linkedin: 'https://www.linkedin.com/in/manthanguptaa/'
+  twitter: 'https://twitter.com/manthanguptaa'
+  skills:
+    - backend
+    - python
+    - golang
+  grad: 2022
