@@ -148,3 +148,17 @@
   edu:
     - JIIT
   grad: 2021
+
+- github: 'https://github.com/iamrajiv'
+  linkedin: 'https://www.linkedin.com/in/iamrajivranjansingh'
+  x: 'https://x.com/therajiv'
+  website: 'https://iamrajiv.github.io/'
+  skills:
+    - c++
+    - go
+    - javascript
+    - backend systems
+    - infrastructure
+  edu:
+    -JSSATE Bengaluru
+  grad: 2022
