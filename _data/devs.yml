@@ -148,3 +148,15 @@
   edu:
     - JIIT
   grad: 2021
+
+- github: 'https://github.com/alter123'
+  linkedin: 'https://www.linkedin.com/in/alter123'
+  twitter: 'https://twitter.com/__alter123'
+  skills:
+    - golang
+    - a few databases in-depth
+    - distributed systems
+    - observability
+  edu:
+    - 𝕏 University
+  grad: 2019
