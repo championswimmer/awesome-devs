@@ -148,3 +148,12 @@
   edu:
     - JIIT
   grad: 2021
+
+- github: 'https://github.com/manthanguptaa'
+  linkedin: 'https://www.linkedin.com/in/manthanguptaa/'
+  twitter: 'https://twitter.com/manthanguptaa'
+  skills:
+    - backend
+    - python
+    - golang
+  grad: 2022
