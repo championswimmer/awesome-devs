@@ -9,13 +9,13 @@ Everytime I come across good Github profiles I index them here
 
 ## Devs 
 {% for dev in site.data.devs %}
-- **Github: <{{ dev.github }}>**   
-  {% if dev.linkedin != "" and dev.linkedin != null %}
-  LinkedIn: <{{ dev.linkedin }}>  
-  {% endif %}
-  {% if dev.twitter != "" and dev.twitter != null %}
-  Twitter: <{{ dev.twitter }}>  
-  {% endif %}
-  Skills : \[{% for skill in dev.skills %} {{ skill }}, {% endfor %}\]
+#### [@{{ dev.github | replace: "https://github.com/", "" }}]({{ dev.github }})   
+{% if dev.linkedin != "" and dev.linkedin != null %}
+- LinkedIn: <{{ dev.linkedin }}>
+{% endif %}
+{% if dev.twitter != "" and dev.twitter != null %}
+- Twitter: <{{ dev.twitter }}>
+{% endif %}
+- Skills : \[{% for skill in dev.skills %} {{ skill }}, {% endfor %}\]
 
 {% endfor %}
