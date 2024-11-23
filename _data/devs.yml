@@ -161,4 +161,23 @@
     - infrastructure
   edu:
     -JSSATE Bengaluru
+
+- github: 'https://github.com/alter123'
+  linkedin: 'https://www.linkedin.com/in/alter123'
+  twitter: 'https://twitter.com/__alter123'
+  skills:
+    - golang
+    - databases
+    - observability
+  edu:
+    - 𝕏 University
+  grad: 2019
+
+- github: 'https://github.com/manthanguptaa'
+  linkedin: 'https://www.linkedin.com/in/manthanguptaa/'
+  twitter: 'https://twitter.com/manthanguptaa'
+  skills:
+    - backend
+    - python
+    - golang
   grad: 2022
