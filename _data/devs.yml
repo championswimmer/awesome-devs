@@ -168,3 +168,12 @@
     - python
     - golang
   grad: 2022
+
+- github: "https://github.com/YugBhanushali"
+  linkedin: "https://www.linkedin.com/in/yug-bhanushali-b3b872224/"
+  twitter: "https://x.com/TheYug03"
+  skills:
+    - backend
+    - nodejs
+    - typescript
+  grad: 2025
