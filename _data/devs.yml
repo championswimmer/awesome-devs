@@ -168,3 +168,15 @@
     - python
     - golang
   grad: 2022
+
+- github: 'https://github.com/vishal-android-freak'
+  linkedin: 'https://linkedin.com/in/vishalaf'
+  twitter: 'https://twitter.com/naa_rang'
+  skills:
+    - javascript
+    - python
+    - golang
+    - react
+    - dart
+    - kotlin
+  grad: 2016
