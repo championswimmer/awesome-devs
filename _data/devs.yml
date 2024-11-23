@@ -168,3 +168,15 @@
     - python
     - golang
   grad: 2022
+
+- github: 'https://github.com/thakkarujas5'
+  linkedin: 'https://www.linkedin.com/in/ujas-thakkar-a47a07193/'
+  edu:
+    - DAIICT
+  twitter: 'https://x.com/thakkarujas5'
+  skills: 
+    - javascript
+    - typescript
+    - nodejs
+    - golang
+  grad: 2022
