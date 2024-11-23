@@ -173,7 +173,10 @@
   linkedin: 'https://linkedin.com/in/vishalaf'
   twitter: 'https://twitter.com/naa_rang'
   skills:
-    - fullstack
-    - IoT
-    - strategy
+    - javascript
+    - python
+    - golang
+    - react
+    - dart
+    - kotlin
   grad: 2016
