@@ -168,3 +168,12 @@
     - python
     - golang
   grad: 2022
+
+- github: 'https://github.com/sansyrox'
+  linkedin: 'https://www.linkedin.com/in/sanskar123/'
+  twitter: 'https://twitter.com/sansyrox'
+  skills:
+    - javascript
+    - python
+    - rust
+  grad: 2021
