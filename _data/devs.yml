@@ -149,6 +149,19 @@
     - JIIT
   grad: 2021
 
+- github: 'https://github.com/iamrajiv'
+  linkedin: 'https://www.linkedin.com/in/iamrajivranjansingh'
+  x: 'https://x.com/therajiv'
+  website: 'https://iamrajiv.github.io/'
+  skills:
+    - c++
+    - go
+    - javascript
+    - backend systems
+    - infrastructure
+  edu:
+    -JSSATE Bengaluru
+
 - github: 'https://github.com/alter123'
   linkedin: 'https://www.linkedin.com/in/alter123'
   twitter: 'https://twitter.com/__alter123'
