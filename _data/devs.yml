@@ -168,3 +168,14 @@
     - python
     - golang
   grad: 2022
+
+- github: 'https://github.com/purohitdheeraj'
+  linkedin: 'https://www.linkedin.com/in/dheeraj-purohit-79ba4a168/'
+  twitter: 'https://twitter.com/the_indianyoga'
+  skills:
+    - Javascript (react, sveltekit, handlebars)
+    - Web design (css, responsive layouts, figma)
+    - Nlp (python, speech synthesis)
+    - Ux (ux research, analytics)
+  grad: 2021
+  
