@@ -168,3 +168,12 @@
     - python
     - golang
   grad: 2022
+
+- github: 'https://github.com/sujay2306'
+  linkedin: 'https://www.linkedin.com/in/sujay-ks-94389a191/'
+  skills:
+    - python
+    - golang
+    - infrastructure
+  edu:
+    -JSSATE Bengaluru
