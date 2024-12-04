@@ -46,12 +46,11 @@
   grad: 2023
   codeforces: 'https://codeforces.com/profile/abdude824'
 - github: 'https://github.com/yogeshpaliyal'
-  linkedin: 'https://www.linkedin.com/in/yogeshpaliya'
+  linkedin: 'https://www.linkedin.com/in/yogeshpaliyal'
   skills:
     - android
     - kotlin
-    - flutter
-    - dart
+    - react-native
   blog: 'https://yogeshpaliyal.com/'
 
 - github: https://github.com/Ayushd70
