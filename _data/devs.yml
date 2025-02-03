@@ -179,4 +179,16 @@
     - Nlp
     - Ux
   grad: 2021
+
+  - github: 'https://github.com/jaindivij21'
+    linkedin: 'https://www.linkedin.com/in/jaindivij/'
+    twitter: 'https://x.com/jaindivij_'
+    skills:
+      - reactjs
+      - nextjs
+      - cpp
+      - python 
+      - rails
+    grad: 2022
+  
   
